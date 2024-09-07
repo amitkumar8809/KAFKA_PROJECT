@@ -8,6 +8,7 @@ public class UserProducerMsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UserProducerMsApplication.class, args);
+		System.out.println("Hello World");
 	}
 
 }
